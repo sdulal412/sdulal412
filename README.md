@@ -23,6 +23,11 @@
 - 🎨 **[canvas](https://canvas.sdulal.dev/)** - Interactive 3D showcase: Engineering for the modern web
 - 📖 **[beam](https://beam.sdulal.dev/)** - Engineering notes on software architecture and system setup
 
+<br>
+
+- 🕹️ **[chess](https://chess.sdulal.dev/)** - The classic Chess clone
+- 🕹️ **[duck-hunt](https://duck-hunt.sdulal.dev/)** - The classic NES Duck-hunt clone
+
 #
 <!-- Page Reloaded counter -->
 <p title="pageReloaded" align="center"> 
