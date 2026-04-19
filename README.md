@@ -19,14 +19,14 @@
 
 ## 🖥️ Projects
 
-- 🧮 **[unit](https://unit.sdulal.dev/)** - The ultimate online unit converter
-- 🎨 **[canvas](https://canvas.sdulal.dev/)** - Interactive 3D showcase: Engineering for the modern web
-- 📖 **[beam](https://beam.sdulal.dev/)** - Engineering notes on software architecture and system setup
+- 🧮 **[unit](https://unit.sushil.io/)** - The ultimate online unit converter
+- 🎨 **[canvas](https://canvas.sushil.io/)** - Interactive 3D showcase: Engineering for the modern web
+- 📖 **[beam](https://beam.sushil.io/)** - Engineering notes on software architecture and system setup
 
 <br>
 
-- 🕹️ **[chess](https://chess.sdulal.dev/)** - The classic Chess clone
-- 🕹️ **[duck-hunt](https://duck-hunt.sdulal.dev/)** - The classic NES Duck-hunt clone
+- 🕹️ **[chess](https://chess.sushil.io/)** - The classic Chess clone
+- 🕹️ **[duck-hunt](https://hunt.sushil.io/)** - The classic NES Duck-hunt clone
 
 #
 <!-- Page Reloaded counter -->
