@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Codeberg-codeberg.org%2Fsdulal412-006400?style=flat-square&logo=codeberg&logoColor=white">
  </a>
 
-
 ## 🖥️ Projects
 
 - 🧮 **[unit](https://unit.sushil.io/)** - The ultimate online unit converter
@@ -25,16 +24,18 @@
 
 <br>
 
-- 🕹️ **[chess](https://chess.sushil.io/)** - The classic Chess clone
-- 🕹️ **[duck-hunt](https://hunt.sushil.io/)** - The classic NES Duck-hunt clone
-
 #
-<!-- Page Reloaded counter -->
-<p title="pageReloaded" align="center"> 
-<img alt="sdulal412" src="https://komarev.com/ghpvc/?username=sdulal412&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
-</p>
+
+<!-- Page Reloaded counter
+ <p title="pageReloaded" align="center"> 
+  <img alt="sdulal412" src="https://komarev.com/ghpvc/?username=sdulal412&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
+ </p>
+-->
 
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal412 -->
+<!--
+- 🕹️ **[chess](https://chess.sushil.io/)** - The classic Chess clone
+- 🕹️ **[duck-hunt](https://hunt.sushil.io/)** - The classic NES Duck-hunt clone
 
 <!-- Icons list -->
 <!--
