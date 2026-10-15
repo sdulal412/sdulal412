@@ -25,14 +25,13 @@
 <br>
 
 #
-
-<!-- Page Reloaded counter
- <p title="pageReloaded" align="center"> 
-  <img alt="sdulal412" src="https://komarev.com/ghpvc/?username=sdulal412&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
- </p>
--->
+<!-- Page Reloaded counter -->
+<p title="pageReloaded" align="center"> 
+<img alt="sdulal412" src="https://komarev.com/ghpvc/?username=sdulal412&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
+</p>
 
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal412 -->
+
 <!--
 - 🕹️ **[chess](https://chess.sushil.io/)** - The classic Chess clone
 - 🕹️ **[duck-hunt](https://hunt.sushil.io/)** - The classic NES Duck-hunt clone
